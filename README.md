@@ -1,2 +1,2 @@
-# Test
+# RealLifeSimulator
 A new test game.
