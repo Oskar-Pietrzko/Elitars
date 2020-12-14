@@ -1,2 +1,2 @@
-# RealLifeSimulator
-A new test game.
+# Elitars
+Początkująca organizacja.
